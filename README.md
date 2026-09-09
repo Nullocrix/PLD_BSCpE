@@ -1,5 +1,5 @@
 # Art backlog
 
-|**Drawings**|**Type**|
+|**Activity**|**Releases**|
 |:---:|:---:|
-|`24,732`|`.jpg`|
+|`3`|[student_profile.c](https://github.com)|
